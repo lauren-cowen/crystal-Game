@@ -1,0 +1,15 @@
+.character {
+	display: block;
+	padding: 4px 20px 20px 20px;
+	background-color: #fff;
+	display: block;;
+	border: 1px solid #ddd
+	border-radius: 4px;
+	transition: border .2s ease-in-out;
+	
+	
+
+.character >img {
+	margin-right: auto;
+    margin-left: auto;
+}
